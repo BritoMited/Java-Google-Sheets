@@ -1,7 +1,7 @@
-#Análise de Arquivos da Unimed e Integração com Google Sheets
+# Análise de Arquivos da Unimed e Integração com Google Sheets
 Este projeto tem como objetivo automatizar o processo de análise e preenchimento de dados entre os arquivos recebidos da Unimed e um Google Sheets já existente. Utilizando a API da Unimed, o projeto fará a comparação dos dados recebidos com as informações existentes no Google Sheets, preenchendo ou atualizando as informações necessárias de forma eficiente.
 
-#Funcionalidades
+# Funcionalidades
 Conexão segura e eficiente com a API da Unimed.
 Integração com o Google Sheets para leitura e escrita de dados.
 Análise automática dos arquivos recebidos da Unimed.
